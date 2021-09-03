@@ -1,5 +1,7 @@
 RENCANA KONTEN NALURRY EMELSY
 
 - JAVASCRIPT
+  * ES6
+  * Framework Javascript
 - PHP FRAMEWORK
 - VLOG
