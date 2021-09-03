@@ -3,6 +3,8 @@ RENCANA KONTEN NALURRY EMELSY
 - JAVASCRIPT
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ~ Angular
+    ~ React
 - PHP FRAMEWORK
+  ~ Laravel
 - VLOG
